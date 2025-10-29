@@ -1,0 +1,5 @@
+{
+  "name": "DCA Crypto Dashboard",
+  "description": "A dashboard to visualize the performance of a Dollar-Cost Averaging (DCA) strategy for cryptocurrencies, tracking portfolio value against invested capital over time.",
+  "requestFramePermissions": []
+}
